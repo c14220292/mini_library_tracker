@@ -15,12 +15,12 @@ Aplikasi Flutter sederhana untuk mencatat dan melacak buku-buku yang sedang atau
 
 ## 🚀 Langkah Instalasi & Build
 
-git clone https://github.com/c14220292/mini_library_tracker.git
-cd mini_library_tracker
-Install dependencies:
-flutter pub get
-Jalankan aplikasi (misal: di Chrome):
-flutter run -d chrome
+- git clone https://github.com/c14220292/mini_library_tracker.git
+- cd mini_library_tracker
+- Install dependencies:
+- flutter pub get
+- Jalankan aplikasi (misal: di Chrome):
+- flutter run -d chrome
 
 ## 🛠 Teknologi yang Digunakan
 
