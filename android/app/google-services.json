@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852330332273",
+    "project_id": "c14220292-minilibrarytracker",
+    "storage_bucket": "c14220292-minilibrarytracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852330332273:android:fe2b2b573c838336255bd0",
+        "android_client_info": {
+          "package_name": "com.example.mini_library_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvhCtpNpIbbJ2hc1Xae0hYH-opnLJRTi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
